@@ -1,5 +1,7 @@
 ## 👋 Hey there!
 
+![wave](assets/wave-waving.gif)
+
 I’m **Shatakshi**, an aspiring **Software Engineer** based in India — currently exploring the backend universe and diving into computer vision with OpenCV.
 
 I'm building small-scale backend systems from scratch to understand how servers, APIs, databases, and authentication actually work. Alongside, I’m also experimenting with OpenCV to understand real-world computer vision use cases. I’m enjoying the process of breaking and making right now.
