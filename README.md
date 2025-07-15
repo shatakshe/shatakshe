@@ -34,7 +34,7 @@ I'm building small-scale backend systems from scratch to understand how servers,
 - I sketch
 - And enjoy reading and humoring life
 
-### 📫 Reach me through
+### Reach me through
 
 📧 shatakshisingh79@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/shatakshe)
