@@ -25,7 +25,7 @@ I'm building small-scale backend systems from scratch to understand how servers,
 - REST API design patterns  
 - OpenCV (image processing & object detection)  
 - SQL + MongoDB  
-- Git, Linux, and Docker basics  
+- Git and Docker basics  
 - How to structure backend projects for maintainability
 
 ### Other than Coding
